@@ -1,0 +1,20 @@
+@charset  "UTF-8";
+
+section#conteudo{
+    width: 1000px;
+}
+
+iframe#frame-spec{
+    width: 500px;
+    height: 310px;
+    border: none;
+    overflow: hidden;
+}
+
+.scroll-escondido{
+    width: 483px;
+    height: 295px;
+    overflow: hidden;
+    float: right;
+}
+
